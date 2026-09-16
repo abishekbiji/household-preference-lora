@@ -1,0 +1,7 @@
+{
+  "adapter_tensors_match": true,
+  "example_id": "val-001",
+  "before_reload": "{\"updates\":{\"budget_eur\":55},\"clarify\":[]}",
+  "after_reload": "{\"updates\":{\"budget_eur\":55},\"clarify\":[]}",
+  "prediction_match": true
+}

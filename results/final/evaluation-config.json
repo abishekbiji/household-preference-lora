@@ -1,0 +1,10 @@
+{
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "base_revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+  "adapter_path": "/content/household-lora/continuation-01/adapter-repaired-20260916T164722737296Z",
+  "dataset_sha256": "11eafdfbb78d75a3370b9b1d67774858d080b66ebf6b8493ef1abe96936f1c3d",
+  "prompt_sha256": "ef2e4cb99eb71891a9a701a342def2feda8521aa2517fccd68e2bd12b147d70d",
+  "do_sample": false,
+  "max_new_tokens": 160,
+  "baseline_method": "Repaired model with adapter disabled"
+}

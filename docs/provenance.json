@@ -1,0 +1,146 @@
+{
+  "source_archive_sha256": "c18594bd145a08baab6f61e03c2895d2bc2ae2b45f89c589f9548369c7237759",
+  "source_notebook_sha256": "5abd6ce872defb3ac0f08b0b63cbff1d1d492d0945ff5d17e7a2455dfd7e0178",
+  "copies": [
+    {
+      "source_archive_path": "train.jsonl",
+      "repository_path": "data/train.jsonl",
+      "sha256": "13561df8cbce63e3dadeac9742214c9ac660d68a2d26c2d06a4e42f8016d328c"
+    },
+    {
+      "source_archive_path": "val.jsonl",
+      "repository_path": "data/val.jsonl",
+      "sha256": "6e622c3a8bd2b871713dc426307a389b08941665a9a1e8b0bd5e272a018c7006"
+    },
+    {
+      "source_archive_path": "test.jsonl",
+      "repository_path": "data/test.jsonl",
+      "sha256": "942e36516ed8d2d770e7f43ceb716df09d60ba47605a3f122a031df6cc160ea6"
+    },
+    {
+      "source_archive_path": "continuation-01/final-evaluation/final_test.jsonl",
+      "repository_path": "data/final_test.jsonl",
+      "sha256": "11eafdfbb78d75a3370b9b1d67774858d080b66ebf6b8493ef1abe96936f1c3d"
+    },
+    {
+      "source_archive_path": "prompt.txt",
+      "repository_path": "prompts/system.txt",
+      "sha256": "ef2e4cb99eb71891a9a701a342def2feda8521aa2517fccd68e2bd12b147d70d"
+    },
+    {
+      "source_archive_path": "prompt-v1.txt",
+      "repository_path": "prompts/original-system.txt",
+      "sha256": "10438dd88ce1b0a5f8f4d487d23ca8aeb42605e9cd16ca6922638865447d1498"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/tokenizer_config.json",
+      "repository_path": "adapter/tokenizer_config.json",
+      "sha256": "04b1682c59acbd057f4c9072297faa73d56fc9de053094c659cdb4c464f58f86"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/adapter_model.safetensors",
+      "repository_path": "adapter/adapter_model.safetensors",
+      "sha256": "5ef9f989dabaab662d01a0fa8148183a9691dc578ee03a3f8c086ca4992c379f"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/adapter_config.json",
+      "repository_path": "adapter/adapter_config.json",
+      "sha256": "0db30d9e823708f6e224cf45ed6e8ea1a9d2201b9b070b2767eea962eff6c73e"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/tokenizer.json",
+      "repository_path": "adapter/tokenizer.json",
+      "sha256": "3fd169731d2cbde95e10bf356d66d5997fd885dd8dbb6fb4684da3f23b2585d8"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/chat_template.jinja",
+      "repository_path": "adapter/chat_template.jinja",
+      "sha256": "cd8e9439f0570856fd70470bf8889ebd8b5d1107207f67a5efb46e342330527f"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/reload-check.json",
+      "repository_path": "results/reload/reload-check.json",
+      "sha256": "aa4570365ab0a2437c17657e34f57d3f583e1f019d9ea9012c7bbe51a41f9d9f"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/validation-replay.json",
+      "repository_path": "results/reload/validation-replay.json",
+      "sha256": "0077fb4ccd936f6c0dda9d1f89723ed658afb49cf5a240b5c12d0fffd985b616"
+    },
+    {
+      "source_archive_path": "continuation-01/adapter-repaired-20260916T164722737296Z/validation-replay-metrics.json",
+      "repository_path": "results/reload/validation-replay-metrics.json",
+      "sha256": "6eaf049026a52a508f8d31dfb87fc96c261ffd0a71c945d0f77d994ec8bf0a7c"
+    },
+    {
+      "source_archive_path": "continuation-01/training-log.json",
+      "repository_path": "results/continuation/training-log.json",
+      "sha256": "f8c09da4bd005ce8c4fcb52f5ad423606855bd329aeee8dfb0b983ba2a9b2cd4"
+    },
+    {
+      "source_archive_path": "continuation-01/validation-metrics.json",
+      "repository_path": "results/continuation/validation-metrics.json",
+      "sha256": "9fe877bf0e3a42848a91dca3baa789c87b77a0f60c23e7f13c1a17e59b3bce7b"
+    },
+    {
+      "source_archive_path": "continuation-01/validation-predictions.json",
+      "repository_path": "results/continuation/validation-predictions.json",
+      "sha256": "0077fb4ccd936f6c0dda9d1f89723ed658afb49cf5a240b5c12d0fffd985b616"
+    },
+    {
+      "source_archive_path": "training-log.json",
+      "repository_path": "results/initial/training-log.json",
+      "sha256": "a320e7007528ef450b905b904143b06b7523d7d0709e34619c950ebbb00a9744"
+    },
+    {
+      "source_archive_path": "metrics.json",
+      "repository_path": "results/initial/metrics.json",
+      "sha256": "18767333fc8fe7a2027ea5d1797e74431dd7ae417c6b86c3673e76fefcd71f19"
+    },
+    {
+      "source_archive_path": "base-val.json",
+      "repository_path": "results/initial/base-val.json",
+      "sha256": "5ebf23cd95d8de2c144c764876fd72d67135584ba6a849d243100503c075a0f4"
+    },
+    {
+      "source_archive_path": "base-test.json",
+      "repository_path": "results/initial/base-test.json",
+      "sha256": "059b5131d1890646fa9356e13284d77aeff6f66992405e27896056cea82573f2"
+    },
+    {
+      "source_archive_path": "adapted-test.json",
+      "repository_path": "results/initial/adapted-test.json",
+      "sha256": "b578579bfcdfb6ef772e433fdc5cdcc721c70562ec4346046aa52d02887b3898"
+    },
+    {
+      "source_archive_path": "continuation-01/final-evaluation/adapted-predictions.json",
+      "repository_path": "results/final/adapted-predictions.json",
+      "sha256": "ccd08a1d8f70a4c80bc86842ac65ee971c5b5c602bff19b762ea70225c524d37"
+    },
+    {
+      "source_archive_path": "continuation-01/final-evaluation/base-predictions.json",
+      "repository_path": "results/final/base-predictions.json",
+      "sha256": "c0a562a5716a6dc138df2bddc7b5a6aac5d945d1edccad4922474b9582d8e6ef"
+    },
+    {
+      "source_archive_path": "continuation-01/final-evaluation/metrics.json",
+      "repository_path": "results/final/metrics.json",
+      "sha256": "8bc278a957f5a8b4b61e2aa74f05038de979dcd8726c097f0ad54e71667f3fd8"
+    },
+    {
+      "source_archive_path": "continuation-01/final-evaluation/evaluation-config.json",
+      "repository_path": "results/final/evaluation-config.json",
+      "sha256": "ff2f22a7cc2911a5ed34546f91a24ef453c62c3db6f738059a07f8a8b70e5d19"
+    },
+    {
+      "source_archive_path": "run.json",
+      "repository_path": "results/initial/run.json",
+      "transformation": "Removed hub_token placeholder; other fields retained."
+    },
+    {
+      "source_archive_path": "continuation-01/run.json",
+      "repository_path": "results/continuation/run.json",
+      "transformation": "Removed hub_token placeholder; other fields retained."
+    }
+  ]
+}

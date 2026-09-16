@@ -1,0 +1,18 @@
+{
+  "base": {
+    "n": 24,
+    "json_valid": 24,
+    "schema_valid": 2,
+    "exact_patch": 0,
+    "clarification_set_correct": 0,
+    "unrequested_update_errors": 0
+  },
+  "adapted": {
+    "n": 24,
+    "json_valid": 21,
+    "schema_valid": 0,
+    "exact_patch": 0,
+    "clarification_set_correct": 0,
+    "unrequested_update_errors": 0
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "val-001",
+    "raw": "{\"updates\": {}, \"clarify\": [\"set budget to 55 euros\"]}"
+  },
+  {
+    "id": "val-002",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-003",
+    "raw": "{\"updates\": {}, \"clarify\": [\"budget_eur\"]}"
+  },
+  {
+    "id": "val-004",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-005",
+    "raw": "{\"updates\": {\"adults\": 5}, \"clarify\": [\"set adults to 7\", \"hold on, make that 5\"]}"
+  },
+  {
+    "id": "val-006",
+    "raw": "{\"updates\": {}, \"clarify\": [\"set budget to 75 euros instead of 60\"]}"
+  },
+  {
+    "id": "val-007",
+    "raw": "{\"updates\": {\"budget_eur\": 65}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-008",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-009",
+    "raw": "{\"updates\": {\"adults\": 4}, \"clarify\": [\"budget_eur\", \"dairy\"]}"
+  },
+  {
+    "id": "val-010",
+    "raw": "{\"updates\": {}, \"clarify\": [\"budget_eur\"]}"
+  },
+  {
+    "id": "val-011",
+    "raw": "{\"updates\": {}, \"clarify\": [\"We're sticking with what we already have.\"]}"
+  },
+  {
+    "id": "val-012",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-013",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-014",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-015",
+    "raw": "{\"updates\": {\"dairy\": \"no_restriction\"}, \"clarify\": [\"dairy_free\"]}"
+  },
+  {
+    "id": "val-016",
+    "raw": "{\"updates\": {}, \"clarify\": [\"dairy_free\"]}"
+  }
+]

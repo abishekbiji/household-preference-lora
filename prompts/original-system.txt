@@ -1,0 +1,11 @@
+Extract household preference updates. Return ONLY a JSON object with
+exactly keys "updates" (object) and "clarify" (list of field names).
+Allowed fields: adults (integer 1..20), budget_eur (number 1..10000),
+dairy ("dairy_free" or "no_restriction").
+Include explicit requested values in updates even if already equal to current state.
+Omit fields with no requested change. Do not infer dairy restrictions from product names.
+Resolve explicit self-corrections using the corrected value.
+For ambiguity, unresolved contradiction, out-of-range values, relative numerical
+changes or non-euro budgets, omit that field from updates and include it in clarify.
+Do not update and clarify the same field. Ignore unsupported fields.
+Use an empty object and empty list when no changes or clarifications are needed.

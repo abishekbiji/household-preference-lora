@@ -1,0 +1,15 @@
+{
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "base_revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+  "seed": 42,
+  "method": "LoRA, non-quantized base",
+  "rank": 8,
+  "alpha": 16,
+  "dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "v_proj"
+  ],
+  "max_sequence_length": 512,
+  "trainable_parameters": 540672
+}

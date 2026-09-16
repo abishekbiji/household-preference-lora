@@ -1,0 +1,98 @@
+[
+  {
+    "id": "final-001",
+    "raw": "{\"updates\":{\"adults\":11},\"clarify\":[\"adults\"]}"
+  },
+  {
+    "id": "final-002",
+    "raw": "{\"updates\":{\"budget_eur\":83.25},\"clarify\":[]}"
+  },
+  {
+    "id": "final-003",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-004",
+    "raw": "{\"updates\":{\"adults\":9,\"budget_eur\":215,\"dairy\":\"no_restriction\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-005",
+    "raw": "{\"updates\":{\"budget_eur\":132.5},\"clarify\":[\"adults\"]}"
+  },
+  {
+    "id": "final-006",
+    "raw": "{\"updates\":{\"adults\":8,\"budget_eur\":176},\"clarify\":[]}"
+  },
+  {
+    "id": "final-007",
+    "raw": "{\"updates\":{\"budget_eur\":108},\"clarify\":[]}"
+  },
+  {
+    "id": "final-008",
+    "raw": "{\"updates\":{\"adults\":10},\"clarify\":[\"adults\"]}"
+  },
+  {
+    "id": "final-009",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-010",
+    "raw": "{\"updates\":{\"dairy\":\"no_restriction\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-011",
+    "raw": "{\"updates\":{\"budget_eur\":117},\"clarify\":[\"budget_eur\"]}"
+  },
+  {
+    "id": "final-012",
+    "raw": "{\"updates\":{\"adults\":8,\"budget_eur\":133},\"clarify\":[\"adults\"]}"
+  },
+  {
+    "id": "final-013",
+    "raw": "{\"updates\":{\"adults\":8,\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-014",
+    "raw": "{\"updates\":{\"budget_eur\":-15},\"clarify\":[]}"
+  },
+  {
+    "id": "final-015",
+    "raw": "{\"updates\":{\"adults\":7},\"clarify\":[\"dairy\"]}"
+  },
+  {
+    "id": "final-016",
+    "raw": "{\"updates\":{},\"clarify\":[]}"
+  },
+  {
+    "id": "final-017",
+    "raw": "{\"updates\":{},\"clarify\":[]}"
+  },
+  {
+    "id": "final-018",
+    "raw": "{\"updates\":{},\"clarify\":[\"dairy\"]}"
+  },
+  {
+    "id": "final-019",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-020",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-021",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-022",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  },
+  {
+    "id": "final-023",
+    "raw": "{\"updates\":{\"adults\":8},\"clarify\":[]}"
+  },
+  {
+    "id": "final-024",
+    "raw": "{\"updates\":{\"dairy\":\"dairy_free\"},\"clarify\":[]}"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "test-001",
+    "raw": "{\"updates\": {}, \"clarify\": [\"Dairy should be 'no_restriction'\"]}"
+  },
+  {
+    "id": "test-002",
+    "raw": "{\"updates\": {}, \"clarify\": [\"set adult count to 7\"]}"
+  },
+  {
+    "id": "test-003",
+    "raw": "{\"updates\": {\"dairy\": \"dairy_free\"}, \"clarify\": {\"budget_eur\": \"increase to 130\", \"adults\": \"decrease to 4\"}}"
+  },
+  {
+    "id": "test-004",
+    "raw": "{\"updates\": {\"adults\": 6}, \"clarify\": {\"budget_eur\": \"110\"}"
+  },
+  {
+    "id": "test-005",
+    "raw": "{\"updates\": {\"adults\": 5}, \"clarify\": {\"budget_eur\": \"95\", \"dairy\": \"dairy_restriction\"}}"
+  },
+  {
+    "id": "test-006",
+    "raw": "{\"updates\": {\"budget_eur\": 72}, \"clarify\": {\"adults\": 2, \"dairy\": \"dairy_free\"}}"
+  },
+  {
+    "id": "test-007",
+    "raw": "{\"updates\": {\"adults\": 5}, \"clarify\": {\"budget_eur\": \"not specified\"}}"
+  },
+  {
+    "id": "test-008",
+    "raw": "{\"updates\": {\"budget_eur\": 85}, \"clarify\": [\"set the budget to 60 euros\", \"replace that with 85 euros\"]}"
+  },
+  {
+    "id": "test-009",
+    "raw": "{\"updates\": {\"dairy\": \"no_restriction\"}, \"clarify\": {\"budget_eur\": 70}}"
+  },
+  {
+    "id": "test-010",
+    "raw": "{\"updates\": {\"adults\": 4}, \"clarify\": [\"Set the number of adults to four.\"]}"
+  },
+  {
+    "id": "test-011",
+    "raw": "{\"updates\": {\"dairy\": \"no_restriction\"}, \"clarify\": {\"adults\": 3, \"budget_eur\": 85}}"
+  },
+  {
+    "id": "test-012",
+    "raw": "{\"updates\": {\"adults\": 3}, \"clarify\": {\"budget_eur\": \"60\", \"dairy\": \"dairy_free\"}}"
+  },
+  {
+    "id": "test-013",
+    "raw": "{\"updates\": {\"budget_eur\": 100}, \"clarify\": {\"adults\": 5, \"dairy\": \"no_restriction\"}}"
+  },
+  {
+    "id": "test-014",
+    "raw": "```json\n{\n  \"updates\": {},\n  \"clarify\": [\n    \"Increase the number of adults to 4.\"\n  ]\n}\n```"
+  },
+  {
+    "id": "test-015",
+    "raw": "{\"updates\": {\"budget_eur\": 90}, \"clarify\": {\"adults\": 4, \"dairy\": \"no_restriction\"}}"
+  },
+  {
+    "id": "test-016",
+    "raw": "{\"updates\": {}, \"clarify\": [\"Please provide more information about your household preferences so we can understand what you're asking.\"]}"
+  },
+  {
+    "id": "test-017",
+    "raw": "{\"updates\": {}, \"clarify\": [\"set adults to 2\", \"leave budget_eur as 50\", \"leave dairy to no_restriction\"]}"
+  },
+  {
+    "id": "test-018",
+    "raw": "{\"updates\": {}, \"clarify\": [\"Please provide more details about your decision tomorrow.\"]}"
+  },
+  {
+    "id": "test-019",
+    "raw": "```json\n{\n  \"updates\": {},\n  \"clarify\": [\n    \"Please specify what you would like to add to the basket.\"\n  ]\n}\n```"
+  },
+  {
+    "id": "test-020",
+    "raw": "{\n  \"updates\": {},\n  \"clarify\": [\n    \"Please deliver after 7 pm\"\n  ]\n}"
+  },
+  {
+    "id": "test-021",
+    "raw": "{\"updates\": {}, \"clarify\": [\"Dairy should be 'no_restriction' instead of 'dairy_free'\"]}"
+  },
+  {
+    "id": "test-022",
+    "raw": "{\"updates\": {}, \"clarify\": [\"set the adult count to four\", \"leave the budget and dairy preference untouched\"]}"
+  },
+  {
+    "id": "test-023",
+    "raw": "{\"updates\": {\"budget_eur\": 125}, \"clarify\": {\"adults\": 7, \"dairy\": \"dairy_free\"}}"
+  },
+  {
+    "id": "test-024",
+    "raw": "{\"updates\": {\"dairy\": \"dairy_free\"}, \"clarify\": {\"budget_eur\": \"keep the original value\"}}"
+  }
+]
